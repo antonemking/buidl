@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Second Brain', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/antonemking',
             label: 'GitHub',
             position: 'right',
           },

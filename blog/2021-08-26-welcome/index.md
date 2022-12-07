@@ -1,25 +1,14 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [aking]
+tags: [hello]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Hello,
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Not sure how you landed here but glad you did. My name is Antone King and this is my public build space. I have recently had the realization that any output I do should be shared and shared publicly to get over the fear of judgement and pracitce shareing my thoughts. The mojority of the wriiting here will be rough notes I create on various topics that interest me. I suggest you do the same.
 
-Regular blog authors can be added to `authors.yml`.
 
-The blog post date can be extracted from filenames, such as:
+Enjoy!
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
